@@ -3,4 +3,4 @@ node_modules
 src
 package.json
 webpack.config.js
-public/config.js.sample
+public
