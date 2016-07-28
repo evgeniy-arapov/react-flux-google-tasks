@@ -1,4 +1,6 @@
-public/config.js
-public/build
 node_modules
 .DS_Store
+src
+package.json
+webpack.config.js
+public/config.js.sample
