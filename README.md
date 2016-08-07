@@ -1,7 +1,7 @@
 # react-google-tasks
 React, Material UI tasks manager with using Google tasks API
 
-Live - https://evgeniy-arapov.github.io/react-google-tasks
+Live - https://evgeniy-arapov.github.io/react-flux-google-tasks
 
 Installation -
  
